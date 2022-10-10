@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sozon
+- 💻 I am working on Shopify stores.
+- 👀 I’m interested in Shopify and frontend development.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: support@sozonl.com
