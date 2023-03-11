@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sozon
 - 👀 I’m interested in Frontend development and Shopify.
 - 💻 I am working on SAP ERP systems as an ABAP developer.
-- 🌱 I’m currently learning React and JavaScript.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: sozonlam@gmail.com
